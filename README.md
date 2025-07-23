@@ -1,12 +1,12 @@
 # Project 1: Analyzing Shoe Prices by Brand and Size
 
-## 📘 Context and Objective
+## Context and Objective
 
 This project explores how brand and shoe size influence product pricing in the footwear market. The dataset contains 200 shoe products, each with brand, color, size, and price information. The objective is to uncover patterns that can help retailers make informed decisions regarding pricing strategy and inventory planning.
 
 ---
 
-## 📌 Key Variables
+## Key Variables
 
 - **Price**: Retail price of the shoe (in USD) – the main variable of interest.
 - **Brand**: The brand of each shoe, representing different market positioning.
@@ -19,7 +19,7 @@ This project explores how brand and shoe size influence product pricing in the f
 
 ### 1. Average Price by Brand
 
-![Average Price by Brand](avg_price_by_brand.png)
+<img width="453" height="293" alt="image" src="https://github.com/user-attachments/assets/f99d5451-8542-48ff-b0a8-d76ed7aa0bc5" />
 
 **Figure 1**: Bar chart showing the average shoe price for each brand.
 
@@ -31,7 +31,7 @@ This project explores how brand and shoe size influence product pricing in the f
 
 ### 2. Average Price by Shoe Size
 
-![Average Price by Size](avg_price_by_size.png)
+<img width="357" height="205" alt="image" src="https://github.com/user-attachments/assets/b3388fb1-107e-4ea8-8158-b1ef4da46343" />
 
 **Figure 2**: Line chart displaying average price based on shoe size.
 
@@ -51,26 +51,18 @@ This project explores how brand and shoe size influence product pricing in the f
 
 ---
 
-## 🧹 Data Cleaning Summary
+## Data Cleaning Summary
 
-- ✅ Removed 3 duplicate entries from the dataset.
-- ✅ Verified all prices are positive and within logical ranges.
-- ✅ Checked that shoe sizes fall between 3.0 and 14.0; 2 invalid entries were removed.
-- ✅ No missing values found.
+- Removed 3 duplicate entries from the dataset.
+- Verified all prices are positive and within logical ranges.
+- Checked that shoe sizes fall between 3.0 and 14.0; 2 invalid entries were removed.
+- No missing values found.
 
 ---
 
-## ✅ Conclusion and Implications
+## Conclusion and Implications
 
 This analysis reveals that:
 - **Branding plays a significant role** in price strategy, often more than product frequency.
 - **Shoe size is not a reliable indicator** for pricing tiers.
 Retailers should focus on **brand perception** and **product positioning** rather than size-driven price adjustments.
-
----
-
-## 👩‍💻 Author
-
-**Pham Thi Anh Tuyet**  
-Bachelor of Business (Business Analytics Concentration) – EIU  
-📁 MIS 311 – Introduction to Business Analytics  
