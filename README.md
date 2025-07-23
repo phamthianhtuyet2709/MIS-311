@@ -62,7 +62,6 @@ This project explores how brand and shoe size influence product pricing in the f
 
 ## Conclusion and Implications
 
-This analysis reveals that:
 - **Branding plays a significant role** in price strategy, often more than product frequency.
 - **Shoe size is not a reliable indicator** for pricing tiers.
 Retailers should focus on **brand perception** and **product positioning** rather than size-driven price adjustments.
